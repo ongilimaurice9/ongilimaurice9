@@ -1,12 +1,3 @@
  Maurice Otieno Ongili- 👋 Hi, I’m @ongilimaurice9
 - 👀 I’m interested in Data science,D,Data analysis,Cyber security,Web Development,Application Development ...
-- 🌱 I’m currently learning .Jomo Kenyatta University of Agriculture and Technology..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ongilimaurice9/ongilimaurice9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning .Jomo Kenyatta University of Agriculture and Technology
